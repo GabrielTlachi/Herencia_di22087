@@ -6,8 +6,19 @@ using System.Windows.Forms;
 
 namespace Herencia
 {
+    /*Prgrama de herencia, es la caracteristica de pasar atributos y metodos a otros objetos o clases*/
+    //Clase Mamá
+    class Operacion
+    {
+        /*Guardar los espaciosde memoria de 3 valores*/
+        //Modificador, tipo de dato, nombre
+        protected           int         valor1;
+        protected           int         valor2;
+        protected           int         resultado;
+    }
     static class Program
     {
+        
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
