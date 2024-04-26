@@ -8,7 +8,7 @@ namespace Herencia
 {
     /*Prgrama de herencia, es la caracteristica de pasar atributos y metodos a otros objetos o clases*/
     //Clase Mamá
-    //Comentario
+    //Comentario 26-04-2024
     class Operacion
     {
         /*Guardar los espaciosde memoria de 3 valores*/
