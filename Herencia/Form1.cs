@@ -20,25 +20,37 @@ namespace Herencia
         private void button1_Click(object sender, EventArgs e)
         {
             sumar sumar = new sumar();
-            textBox3.Text = sumar.operar(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            textBox3.Text = sumar.operar(float.Parse(textBox1.Text), float.Parse(textBox2.Text)).ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             restar restar = new restar();
-            textBox3.Text = restar.operar(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            textBox3.Text = restar.operar(float.Parse(textBox1.Text), float.Parse(textBox2.Text)).ToString();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             multiplicar multiplicar = new multiplicar();
-            textBox3.Text = multiplicar.operar(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            textBox3.Text = multiplicar.operar(float.Parse(textBox1.Text), float.Parse(textBox2.Text)).ToString();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
             dividir dividir = new dividir();
-            textBox3.Text = dividir.operar(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            textBox3.Text = dividir.operar(float.Parse(textBox1.Text), float.Parse(textBox2.Text)).ToString();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

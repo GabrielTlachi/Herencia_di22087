@@ -91,6 +91,7 @@ namespace Herencia
             this.button5.TabIndex = 4;
             this.button5.Text = "SALIR";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -100,6 +101,7 @@ namespace Herencia
             this.button6.TabIndex = 5;
             this.button6.Text = "Limpiar";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // label1
             // 

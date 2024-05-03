@@ -8,3 +8,13 @@ C:\Users\LICENCIATURAS\Downloads\Herencia_di22087\Herencia\obj\Debug\Herencia.cs
 C:\Users\LICENCIATURAS\Downloads\Herencia_di22087\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
 C:\Users\LICENCIATURAS\Downloads\Herencia_di22087\Herencia\obj\Debug\Herencia.exe
 C:\Users\LICENCIATURAS\Downloads\Herencia_di22087\Herencia\obj\Debug\Herencia.pdb
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\bin\Debug\Herencia.exe
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\obj\Debug\Herencia.Properties.Resources.resources
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\obj\Debug\Herencia.csproj.GenerateResource.cache
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\obj\Debug\Herencia.exe
+C:\Users\Maquina303\Downloads\GabrielTlachi\Herencia_di22087\Herencia\obj\Debug\Herencia.pdb
